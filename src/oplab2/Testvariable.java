@@ -33,12 +33,12 @@ public class Testvariable {
         System.out.println(msg.toUpperCase());
         System.out.println(msg.toLowerCase());
         System.out.println(msg.length());
-        System.out.println(msg.replace(oldChar: 'o', nameChar:'g'));
+        System.out.println(msg.replace( 'o','g'));
 
         //Boolean
         boolean b = true;
         boolean bl= false;
-        System.out.println(b+""+b1);
+        System.out.println(b+""+bl);
 
  //       Shortcut Operator
         int number =10;
