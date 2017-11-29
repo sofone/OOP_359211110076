@@ -7,5 +7,31 @@
 package oop_lab3;
 
 
+import java.util.Scanner;
+
 public class CalGrade {
-}
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int score;
+        System.out.print("Enter your score: ");
+        score = scanner.nextInt();
+        // test condition score
+        if (score<49)
+            System.out.println("your grade is F");
+        else if (score<59)
+            System.out.println("your grade is D");
+        else if (score<69)
+            System.out.println("your grade is C");
+        else if (score<79)
+            System.out.println("your grade is B");
+        else
+            System.out.println("your grade is A");
+
+
+
+
+
+    }//main
+
+
+}//class
