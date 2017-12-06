@@ -86,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestNastedLoop.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestNastedLoop.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestNastedLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -96,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMethods.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lop4/TestMethods.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -512,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512535475611</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Test Methods">
+      <created>1512535514049</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1512535514049</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -588,7 +595,8 @@
     <MESSAGE value="Testing Swtich" />
     <MESSAGE value="Testing while" />
     <MESSAGE value="Methods Overload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods Overload" />
+    <MESSAGE value="Test Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -840,14 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestNastedLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lop4/OverLoadMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -873,6 +873,14 @@
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#339#340#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestNastedLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
