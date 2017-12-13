@@ -11,6 +11,11 @@ public class OperatorInArray {
             System.out.print(number2[i]+" ");
 
         int number3[] = {1,2,3,4,5};
+        if (number==number3)
+            System.out.println("Yes");
+        else System.out.println("No");
+        number[4] = 500;
+        System.out.println(number2[4]);
 
 
 
