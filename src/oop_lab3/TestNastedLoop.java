@@ -1,6 +1,6 @@
 package oop_lab3;
 
-//public class TestNestedLoop {
+public class TestNastedLoop {
     public static void main(String[] args) {
         int n=1;
         for (int i=1;i<=8;i++){
@@ -13,8 +13,11 @@ package oop_lab3;
                     System.out.print(n + "\t");
                     n++;
                 }
+
+
             }//j
             System.out.println();
+
 
         }//i
         System.out.println("\t\t");
@@ -33,11 +36,17 @@ package oop_lab3;
                     System.out.print(x+"\t");
                     x++;
 
+
+
                 }
             }//j
             System.out.println();
 
         }//i
+
+
+
+
 
 
     }//main
