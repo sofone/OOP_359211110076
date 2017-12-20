@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="587bd7e4-8ae5-49f1-bd58-ffc8ae827f5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lap6/myStringBuffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lap6/myStringToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lap6/myStringToken.java" afterPath="$PROJECT_DIR$/src/oop_lap6/myStringToken.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,27 +19,27 @@
         <entry file="file://$PROJECT_DIR$/src/oop_lap6/mySting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStringBuffer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myStringBuffer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lap6/myStringBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStringToken.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myStringToken.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lap6/myStringToken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -88,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/oop_lab5/TestsotingArray.java" />
         <option value="$PROJECT_DIR$/src/oop_lap6/mySting.java" />
         <option value="$PROJECT_DIR$/src/oop_lap6/myStringBuffer.java" />
+        <option value="$PROJECT_DIR$/src/oop_lap6/myStringToken.java" />
       </list>
     </option>
   </component>
@@ -184,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myStringBuffer">
+  <component name="RunManager" selected="Application.myStringToken">
     <configuration name="OperatorInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -193,25 +193,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="oop_lab5.OperatorInArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP_359211110076" />
-      <envs />
-    </configuration>
-    <configuration name="TestMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="oop_lop4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="oop_lop4.TestMethods" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -361,20 +342,39 @@
       <module name="OOP_359211110076" />
       <envs />
     </configuration>
+    <configuration name="myStringToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="oop_lap6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="oop_lap6.myStringToken" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP_359211110076" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestMethods" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OperatorInArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestsotingArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.mySting" />
-      <item index="4" class="java.lang.String" itemvalue="Application.myStringBuffer" />
+      <item index="0" class="java.lang.String" itemvalue="Application.OperatorInArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestsotingArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.mySting" />
+      <item index="3" class="java.lang.String" itemvalue="Application.myStringBuffer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.myStringToken" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.myStringBuffer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.mySting" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestsotingArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OperatorInArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestMethods" />
+        <item index="0" class="java.lang.String" itemvalue="Application.myStringToken" />
+        <item index="1" class="java.lang.String" itemvalue="Application.myStringBuffer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.mySting" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestsotingArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OperatorInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513743386302</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Test myString Buffer">
+      <created>1513744442248</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1513744442248</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -614,7 +621,8 @@
     <MESSAGE value="Test Methods edit" />
     <MESSAGE value="Test Nasted loop edit" />
     <MESSAGE value="Test myString class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test myString class" />
+    <MESSAGE value="Test myString Buffer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test myString Buffer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -623,13 +631,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oplab2/Testvariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestLoopfor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -965,15 +966,15 @@
     <entry file="file://$PROJECT_DIR$/src/oop_lap6/mySting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lap6/myStringToken.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/StringTokenizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="622">
+          <caret line="358" column="67" lean-forward="false" selection-start-line="358" selection-start-column="67" selection-end-line="358" selection-end-column="67" />
           <folding />
         </state>
       </provider>
@@ -981,7 +982,15 @@
     <entry file="file://$PROJECT_DIR$/src/oop_lap6/myStringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lap6/myStringToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
