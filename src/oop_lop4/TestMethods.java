@@ -23,8 +23,8 @@ public abstract class TestMethods {
         B(x, y);
         // type 3 return value management
         //1
-        int num C(x, y);
-       System.out.println(num)
+        int num = C(x,y);
+        System.out.println(num);
 
 
     }//main
