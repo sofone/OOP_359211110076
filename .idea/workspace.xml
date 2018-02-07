@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587bd7e4-8ae5-49f1-bd58-ffc8ae827f5e" name="Default" comment="pet">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lap8/pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/Cow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/myCarApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lob9/myPersonApp.java" />
+    <list default="true" id="587bd7e4-8ae5-49f1-bd58-ffc8ae827f5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lap8/pet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="748">
@@ -40,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cow.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Cow.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lob9/Cow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -683,7 +674,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516638736527</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="pet">
+      <created>1517975710684</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1517975710684</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1042,19 +1040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lob9/Cow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lob9/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1185,6 +1170,19 @@
             <element signature="e#574#575#0" expanded="true" />
             <element signature="e#602#603#0" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lob9/Cow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
